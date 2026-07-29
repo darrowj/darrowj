@@ -1,5 +1,5 @@
 Jason Darrow
-IT Delivery Manager.  15+ years managing technology programs in financial services.  PMP and CSM certified.  US Air Force veteran.  BJJ Black Belt.
+IT Delivery Manager.  10+ years managing technology programs in financial services.  PMP and CSM certified.  US Air Force veteran.  BJJ Black Belt.
 I'm learning AI by building with it.  Not reading about it.  Not taking courses.  Building actual tools that solve real problems — and committing the code.
 
 What I'm Building
